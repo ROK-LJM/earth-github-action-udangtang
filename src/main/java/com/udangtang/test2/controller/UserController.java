@@ -14,8 +14,6 @@ import java.io.IOException;
 @RestController
 @RequiredArgsConstructor
 public class UserController {
-
-
     @Autowired
     private UserMapper userMapper;
 
