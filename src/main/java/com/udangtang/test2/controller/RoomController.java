@@ -46,7 +46,6 @@ public class RoomController {
 
     // 회의방 상세정보
 
-
     // 음성 녹음 처리
 //    @PostMapping("testing")
 //    public String running(@RequestBody UserDto userDto) {
