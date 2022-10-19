@@ -28,7 +28,6 @@ public class UserController {
         return userDto;
     }
 
-
     @PostMapping("testing")
     public String running(@RequestBody UserDto userDto) {
         Boolean check = false;
